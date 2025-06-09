@@ -93,10 +93,6 @@ Runs on: `http://localhost:5000`
 <img src="./screenshots/img1.png" width="200" />
 <img src="./screenshots/img2.png" width="200" />
 <img src="./screenshots/img3.png" width="200" />
-<br/>
-<img src="./screenshots/img4.png" width="200" />
-<img src="./screenshots/img5.png" width="200" />
-<img src="./screenshots/img6.png" width="200" />
 </div>
 
 ---
@@ -110,5 +106,5 @@ This project is for **educational purposes only**. It does not store any user da
 ## 🧑‍💻 Author
 
 - **Ayush Kumbhalkar**
-- [LinkedIn](https://linkedin.com/in/your-link)
-- [GitHub](https://github.com/your-username)
+- [LinkedIn](https://www.linkedin.com/in/ayush-frontend)
+- [GitHub](https://github.com/FrontendwithAyush)
