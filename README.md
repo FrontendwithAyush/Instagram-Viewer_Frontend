@@ -1,6 +1,6 @@
 # 📸 Instagram Profile Viewer
 
-An anonymous Instagram profile viewer built using **React** for the frontend and **Puppeteer** (or Playwright, customizable) with **Express.js** for the backend. This project scrapes publicly available data such as profile picture, bio, and latest posts from Instagram without logging in.
+An anonymous Instagram profile viewer built using **React** for the frontend and **Puppeteer** , **Node.jd** with **Express.js** for the backend. This project scrapes publicly available data such as profile picture, bio, and latest posts from Instagram without logging in.
 
 ---
 
@@ -63,10 +63,10 @@ Runs on: `http://localhost:3000`
 
 ### 🔹 Backend (Express + Puppeteer)
 
-📦 Backend Code Repo: [View Backend Repository](https://github.com/FrontendwithAyush/instagram-viewer-backend)
+📦 Backend Code Repo: [View Backend Repository](https://github.com/FrontendwithAyush/Instagram-Viewer_Backend)
 
 ```bash
-git clone https://github.com/FrontendwithAyush/instagram-viewer-backend.git
+git clone https://github.com/FrontendwithAyush/Instagram-Viewer_Backend
 cd instagram-viewer-backend
 npm install
 npm start
