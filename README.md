@@ -6,7 +6,7 @@ An anonymous Instagram profile viewer built using **React** for the frontend and
 
 ## 📸 Preview
 
-![insta App Preview](./screenshots/insta-preview.png) <!-- Add a screenshot named like this in a 'screenshots' folder -->
+![insta App Preview](./screenshot/insta-preview.png) <!-- Add a screenshot named like this in a 'screenshots' folder -->
 
 ---
 
@@ -90,9 +90,9 @@ Runs on: `http://localhost:5000`
 ## 📷 Screenshots
 
 <div align="center">
-<img src="./screenshots/img1.png" width="200" />
-<img src="./screenshots/img2.png" width="200" />
-<img src="./screenshots/img3.png" width="200" />
+<img src="./screenshot/img1.png" width="200" />
+<img src="./screenshot/img2.png" width="200" />
+<img src="./screenshot/img3.png" width="200" />
 </div>
 
 ---
